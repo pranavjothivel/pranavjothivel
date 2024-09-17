@@ -4,6 +4,7 @@ Welcome! I am a passionate Software Engineer from New York. I enjoy working with
 
 ## About Me
 
+- Working on some pretty cool projects!
 - Looking for Summer 2025 internship oppurtunities!
 - Follow me on [LinkedIn](https://www.linkedin.com/in/pranav-jothivel/)!
 - Feel free to reach out anytime, always happy to chat!
@@ -11,7 +12,7 @@ Welcome! I am a passionate Software Engineer from New York. I enjoy working with
 ## Technical Skils
 
 - Programming Languages: Python, Java, OCaml, C, HTML, CSS, and JavaScript
-- Technologies: Amazon Web Services (currently a Certfied Cloud Practitioner, preparing to take Certified Developer exam), Redis, PostgresSQL, and Heroku
+- Technologies: Amazon Web Services (Certfied Cloud Practitioner, preparing to take Certified Developer exam), Redis, PostgresSQL, and Heroku
 
 Hope you visit again!
 

@@ -1,6 +1,6 @@
 # Hi, I'm Pranav! 👋
 
-Welcome! I am a passionate Software Engineer from New York. I enjoy working with others, collaborating on innovative projects, sharing knowledge, and learning from diverse perspectives.
+Welcome! I am a driven Software Engineer from New York. I enjoy working with others, collaborating on innovative projects, sharing knowledge, continually expanding my skills, and gaining insights from diverse perspectives.
 
 ## About Me
 

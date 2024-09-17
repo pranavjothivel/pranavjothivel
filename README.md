@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Pranav! 👋
+
+I am a passionate Software Engineer from New York, currently studying Computer Science and Applied Mathematics and Statistics.
+
+<!-- [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavjothivel)] -->
 
 <!--
 **pranavjothivel/pranavjothivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

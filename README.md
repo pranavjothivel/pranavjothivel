@@ -1,4 +1,4 @@
-# Hi, I'm Pranav! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="30" height="30">
+# Hi, I'm Pranav! 👋
 
 Welcome! I am a driven Software Engineer from New York. I enjoy working with others, collaborating on innovative projects, sharing knowledge, continually expanding my skills, and gaining insights from diverse perspectives.
 

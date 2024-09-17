@@ -11,8 +11,8 @@ Welcome! I am a passionate Software Engineer from New York. I enjoy working with
 
 ## Technical Skils
 
-- Programming Languages: Python, Java, OCaml, C, HTML, CSS, and JavaScript
-- Technologies: Amazon Web Services (Certfied Cloud Practitioner, preparing to take Certified Developer exam), Redis, PostgresSQL, and Heroku
+- Programming Languages: Python, Java, OCaml, C, HTML, CSS, JavaScript
+- Technologies: Amazon Web Services (Certfied Cloud Practitioner, preparing to take Certified Developer exam), Redis, PostgresSQL, Heroku
 
 Hope you visit again!
 

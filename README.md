@@ -5,7 +5,7 @@ Welcome! I am a driven Software Engineer from New York. I enjoy working with oth
 ## About Me
 
 - Working on some pretty cool projects!
-- Looking for Summer 2025 internship oppurtunities!
+- Looking for Summer 2025 and Fall 2025 internship oppurtunities!
 - Follow me on [LinkedIn](https://www.linkedin.com/in/pranav-jothivel/)!
 - Reach out anytime, always happy to chat!
 

@@ -12,9 +12,9 @@ Welcome! I am a driven Software Engineer from New York. I enjoy working with oth
 ## Technical Skills
 
 - Programming Languages: Python, Java, OCaml, C, C++, HTML, CSS, JavaScript
-- Technologies: Amazon Web Services (Certified Cloud Practitioner, preparing to take Certified Developer exam), Redis, PostgreSQL, Heroku
+- Technologies: Docker, Jenkins, Amazon Web Services, Redis, PostgreSQL, Heroku
 
-Feel free to connect with me on LinkedIn, and I hope you visit again!
+Feel free to connect with me on LinkedIn, and I look forward to your visit again!
 
 <!-- <br>
 <br>

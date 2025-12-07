@@ -11,7 +11,7 @@ Welcome! I am a driven Software Engineer from New York. I enjoy working with oth
 
 ## Technical Skills
 
-- Programming Languages: Python, Java, OCaml, C, C++, HTML, CSS, JavaScript
+- Programming Languages: Python, Java, OCaml, C, C++, JavaScript
 - Technologies: Docker, Jenkins, Amazon Web Services, Redis, PostgreSQL, Heroku
 
 Feel free to connect with me on LinkedIn, and I look forward to your visit again!
